@@ -1,1 +1,1 @@
-react başlangıç projesi
+React başlangıç projesi
